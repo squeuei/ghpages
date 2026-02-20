@@ -1,6 +1,6 @@
-baseURL = "https://squeuei.github.io"
+baseURL = "https://squeuei.github.io/ghpages"
 languageCode = "ja-jp"
-title = "Constellation"
+title = "Constellation (old)"
 theme = "hugo-theme-basic"
 
 
