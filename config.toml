@@ -1,4 +1,4 @@
-baseURL = "https://squeuei.github.io/ghpages/"
+baseURL = "https://squeuei.github.io/old-blog/"
 languageCode = "ja-jp"
 title = "Constellation (old)"
 theme = "hugo-theme-basic"
